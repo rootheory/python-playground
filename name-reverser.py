@@ -1,4 +1,4 @@
-#python
+#python playground - learning 
 
 name = input ('First and last name to reverse - > ! ')
 
