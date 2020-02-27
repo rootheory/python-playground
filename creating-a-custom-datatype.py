@@ -1,3 +1,5 @@
+# creating a custom datatype #
+
 ''' Provide a class to model a 2D vector '''
 class vector(object):
     ''' A class for 2D vectors which implements vector addition '''
